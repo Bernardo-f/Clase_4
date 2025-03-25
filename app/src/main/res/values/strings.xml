@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Clase_4</string>
+    <string name="select">Select User Type</string>
+    <string name="please">Please choose your profession</string>
+    <string name="enter_guest">Enter as Guest</string>
+    <string name="author_card_title">Author</string>
+    <string name="editor_card_title">Editor</string>
+    <string name="moderator_card_title">Moderator</string>
+    <string name="accountant_card_title">Accountant</string>
+    <string name="designer_card_title">Designer</string>
+    <string name="developer_card_title">Developer</string>
+</resources>
